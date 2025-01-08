@@ -1,3 +1,5 @@
+# google-secops-cli
+
 This is the very beginning of CLI tool interacting with Google SecOps. The intetion is to provide the bits required for integration with AlphaSOC.
 
 At the moment it only allows for managing DataTaps (https://cloud.google.com/chronicle/docs/reference/datatapconfig-api)
